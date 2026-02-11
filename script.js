@@ -1,0 +1,12 @@
+console.log("Hello World!");
+console.error("This is my first JavaScript error!");
+alert("Hi Robynne!");
+alert("Hi Larissa!");
+alert("Hi Vedant!");
+alert("Hi Nolan!");
+alert("Hi Ryan!");
+console.log(console);
+alert("Goodbye!");
+console.log("Did you say bye?");
+console.clear();
+console.log("You cleared your console.");
